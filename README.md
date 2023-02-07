@@ -29,6 +29,8 @@
 > <img src="https://pics.freeicons.io/uploads/icons/png/19218518301553750371-512.png" width="20" height="20"> Mysql.
 > 
 ### <img src="https://cdn-icons-png.flaticon.com/512/4727/4727496.png" width="20" height="20"> Soft Skills
+> <img src="https://cdn-icons-png.flaticon.com/512/1281/1281562.png" width="20" height="20"> Proativo.
+>
 > <img src="https://cdn-icons-png.flaticon.com/512/2419/2419608.png" width="20" height="20"> Comunicativo.
 >
 > <img src="https://cdn-icons-png.flaticon.com/512/6585/6585702.png" width="20" height="20"> Extrovertido.
