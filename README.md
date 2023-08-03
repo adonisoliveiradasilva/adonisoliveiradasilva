@@ -5,7 +5,7 @@
 
 > <img src="https://cdn-icons-png.flaticon.com/512/4661/4661320.png" width="20" height="20">  Sou desenvolvedor Web e Mobile.
 >
-> <img src="https://cdn-icons-png.flaticon.com/512/998/998427.png" width="20" height="20"> Atualmente trabalho na [JDC Tech & People](https://jdctech.com.br/).
+> <img src="https://cdn-icons-png.flaticon.com/512/998/998427.png" width="20" height="20"> Atualmente trabalho no Grupo LPJ
 > 
 > <img src="https://cdn-icons-png.flaticon.com/512/1913/1913288.png" width="20" height="20"> Nas horas vagas gosto de cantar e tocar violão.
 > 
@@ -22,7 +22,7 @@
 > 
 > <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="20" height="20"> Javascript.
 > 
-> <img src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" width="20" height="20"> React.
+> <img src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" width="20" height="20"> React e Angular.
 > 
 > <img src="https://pics.freeicons.io/uploads/icons/png/2132470731553750209-512.png" width="20" height="20"> PHP.
 > > 
