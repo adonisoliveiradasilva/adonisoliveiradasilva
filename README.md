@@ -4,7 +4,7 @@
 
 Meu nome é Adonis, e sou um desenvolvedor apaixonado por criar soluções Web e Mobile. Atualmente, estou empregado no [*Grupo LPJ*](https://grupolpj.com/), onde tenho a oportunidade de aplicar e aprimorar minhas habilidades todos os dias.
 
-Atualmente, estou cursando *Engenharia da Computação* na Universidade Federal de Ouro Preto (UFOP).
+Atualmente, estou cursando *Sistemas de Informação* na Universidade Federal de Ouro Preto (UFOP).
 
 Fique à vontade para explorar meus projetos. Se tiver alguma pergunta ou estiver interessado em colaborar, não hesite em entrar em contato!
 
